@@ -30,8 +30,6 @@
 
 - 🌱 I’m currently learning **web development**
 
-- ☁️ I have a strong interest in the backend. So, I am learning **C#**.
-
 - 📫 Feel free to reach me out **sebastianemiliotv@gmail.com**
 <!--Intro end-->
 
@@ -44,7 +42,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,cs,linux,discord,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,linux,discord,vscode&perline=14" />
   </a>
 </p>
 
