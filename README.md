@@ -28,7 +28,7 @@
 <!--Intro start-->
 - 🔭 I’m currently working on **HTML, CSS, JAVASCRIPT**
 
-- 🌱 I’m currently learning **web development**
+- 🌱 I’m currently learning **C#**
 
 - 📫 Feel free to reach me out **sebastianemiliotv@gmail.com**
 <!--Intro end-->
