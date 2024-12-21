@@ -22,7 +22,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,csharp,css,html,js,mysql,sqlite,sqlserver,firebase,git,github,postman,eclipse,vscode,bash,linux,ps&perline=12" />
+    <img src="https://skillicons.dev/icons?i=java,css,html,js,mysql,sqlite,firebase,git,github,postman,eclipse,vscode,bash,linux,&perline=12" />
   </a>
 </p>
 <br>
