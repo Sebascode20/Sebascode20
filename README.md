@@ -1,67 +1,72 @@
+<h1 align="center">Hola 👋  soy Sebastián Aguiñada ✨ </h1> 
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Sebastián</h1></summary>
-  </ul>
-</div>
-
-
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
-
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">If you can imagine it, you can program it</h2></summary>
-  </ul>
-</div>
-
-
+<p align="left">
+<a href="https://www.linkedin.com/in/sebasti%C3%A1n-emilio-agui%C3%B1ada-coto-497a3527b/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Sebastián Aguiñada"/></a>
+<a href = "mailto:sebastianemiliotv@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Sebastián Aguiñada"  /></a>
+  </p>
+<br>
+<h2>Sobre mi 😃</h2>
 <!--Intro start-->
-- 🔭 I’m currently working on **HTML, CSS, JAVASCRIPT**
 
-- 🌱 I’m currently learning **Java**
+<p align="left">
+🎓 Estudiante de Técnico en Ingeniería en Computación
 
-- 📫 Feel free to reach me out **sebastianemiliotv@gmail.com**
+💻 futuro desarrollador Java
+
+📫 Contacto: **sebastianemiliotv@gmail.com**
 <!--Intro end-->
+  </p>
+<br>
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
+<h2 >Tecnologías conocidas👨🏻‍💻</h2>
 <!--tech stack icons-->
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,linux,discord,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=java,csharp,css,html,js,mysql,sqlite,sqlserver,firebase,git,github,postman,eclipse,vscode,bash,linux,ps&perline=12" />
   </a>
 </p>
+<br>
+<!-------------------------->
+<br>
+<br><br>
+<br>
+<br><br><br>
+<br><br>
 
+<!------------------------->
+  <br>
+<br><br>
 
-<!-- Connect with me -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
-  </ul>
-</div>
-
-<!--icons and links-->
+<h2>GitHub :octocat:</h2>
+<!--- stats & Trophy (start) -->
 <p align="center">
-<a href="https://www.linkedin.com/in/sebasti%C3%A1n-emilio-agui%C3%B1ada-coto-497a3527b/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-  
-</p>
+  <!--- stats (start) -->
+<table align="left">
+<tr border="none">
+<td width="60%" align="center">
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!--  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=unsimpledev&theme=dark&show_icons=true&count_private=true" />
+  <br></br> -->
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=unsimpledev&theme=dark&hide_border=false" /> 
+</td>
 
-----------------------------------------------------------------------
+<td width="40%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=unsimpledev&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
+
+<!--- trophy (start) -->
+<div align=left>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=unsimpledev&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
+</div>
+<!--- trophy (start) -->
+
+
+</p>        
+<!--- stats (end) -->
