@@ -11,7 +11,7 @@
 <p align="left">
 🎓 Estudiante de Técnico en Ingeniería en Computación
 
-💻 futuro desarrollador Java
+💻 aprendiendo C#
 
 📫 Contacto: **sebastianemiliotv@gmail.com**
 <!--Intro end-->
@@ -22,7 +22,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,cs,css,html,js,mysql,sqlite,firebase,git,github,postman,eclipse,idea,vscode,bash,linux,&perline=12" />
+    <img src="https://skillicons.dev/icons?i=cs,css,html,js,mysql,sqlite,firebase,git,github,postman,vscode,bash,linux,&perline=12" />
   </a>
 </p>
 <br>
