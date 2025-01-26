@@ -1,17 +1,18 @@
-<h1 align="center">Hola 👋  soy Sebastián Aguiñada ✨ </h1> 
+<h1 align="center">Hi I'm Sebastián Aguiñada👋</h1> 
 
 <p align="left">
 <a href="https://www.linkedin.com/in/sebasti%C3%A1n-emilio-agui%C3%B1ada-coto-497a3527b/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Sebastián Aguiñada"/></a>
 <a href = "mailto:sebastianemiliotv@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Sebastián Aguiñada"  /></a>
   </p>
 <br>
-<h2>Sobre mi 😃</h2>
+<h2>About me 😃</h2>
 <!--Intro start-->
+I am a computer engineering technician student, 
+I am expanding my knowledge in back-end development, I love to learn and build projects
+that help me to improve as a programmer.
 
 <p align="left">
-🎓 Estudiante de Técnico en Ingeniería en Computación
-
-💻 aprendiendo Java
+💻 Learning Java
 
 📫 Contacto: **sebastianemiliotv@gmail.com**
 <!--Intro end-->
