@@ -15,12 +15,12 @@ that help me to improve as a programmer.
   
 💻 Learning Java
 
-📫 Contacto: **sebastianemiliotv@gmail.com**
+📫 Contact: **sebastianemiliotv@gmail.com**
 <!--Intro end-->
   </p>
 <br>
 
-<h2 >Tecnologías conocidas👨🏻‍💻</h2>
+<h2 >Known technologies👨🏻‍💻</h2>
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
