@@ -11,7 +11,7 @@
 <p align="left">
 🎓 Estudiante de Técnico en Ingeniería en Computación
 
-💻 aprendiendo C#
+💻 aprendiendo Java
 
 📫 Contacto: **sebastianemiliotv@gmail.com**
 <!--Intro end-->
