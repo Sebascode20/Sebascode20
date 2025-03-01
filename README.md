@@ -13,7 +13,7 @@ that help me to improve as a programmer.
 
 <p align="left">
   
-💻 Learning Java
+💻 .NET developer
 
 📫 Contact: **sebastianemiliotv@gmail.com**
 <!--Intro end-->
